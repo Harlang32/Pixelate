@@ -13,5 +13,14 @@ body {
   flex-direction: column;
   align-items: center;
 }
+ 
+td {
+  background-color: lightgray;
+height: 50px;
+width: 50px;
+}
 
+.green {
+  background-color: green;
+}
 /* your CSS below! */
