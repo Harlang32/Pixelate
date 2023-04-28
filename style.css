@@ -31,4 +31,24 @@ width: 50px;
 .blue {
   background-color: blue;
 }
+
+.yellow {
+  background-color: yellow;
+}
+
+.black {
+  background-color: black;
+}
+
+.white {
+  background-color: white;
+}
+
+.tan {
+  background-color: tan;
+}
+
+td {
+  border-collapse: collapse;
+}
 /* your CSS below! */
