@@ -16,9 +16,11 @@ table.appendChild(row)
  const button = document.getElementById('add-row')
  button.addEventListener('click', makeRow)
 
- function colorize(){
-    console.log("clicked!")
- }
-    document.getElementById('table')
     table.addEventListener('click', colorize)
+
+    function colorize(event){
+   const target = event.target
+   if 
+ }
  
+document.getElementsByName('table')
